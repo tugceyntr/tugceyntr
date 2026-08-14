@@ -87,4 +87,14 @@
 
 ---
 
+### 📫 Get in touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-yent%C3%BCr-a1a2a42b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tugceyentur@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/tugceyntr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
 <p align="center"><i>Still early on GitHub — most of my work lives in private repositories for now. 🚧</i></p>
