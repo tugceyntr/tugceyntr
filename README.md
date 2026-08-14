@@ -62,3 +62,20 @@
 ---
 
 <p align="center"><i>Still early on GitHub — most of my work lives in private repositories for now. 🚧</i></p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tugceyntr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Tuğçe's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugceyntr&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugceyntr&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tugceyntr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub trophies" />
+</p>
