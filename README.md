@@ -61,10 +61,6 @@
 
 ---
 
-<p align="center"><i>Still early on GitHub — most of my work lives in private repositories for now. 🚧</i></p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -79,3 +75,16 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tugceyntr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub trophies" />
 </p>
+
+---
+
+### 🌱 Currently learning
+
+- Redis as a write-buffer in front of a relational database, and how to keep the two consistent
+- Load testing services before they meet real factory traffic
+- Reproducible local environments with Docker Compose
+- Query planning and indexing in MySQL
+
+---
+
+<p align="center"><i>Still early on GitHub — most of my work lives in private repositories for now. 🚧</i></p>
