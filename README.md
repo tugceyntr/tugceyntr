@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About me
 
-- 🎓 Computer engineering student at **Nişantaşı University**, Istanbul
+- 🎓 management information systems student at **Nişantaşı University**, Istanbul
 - 🏭 Software intern at **Yekta Teknoloji** — building ERP / MES tooling for factory floors
 - ⚙️ Currently writing **Go** services: high-throughput counters backed by Redis and MySQL
 - 🌐 Day to day I also work with **Laravel + Blade** on internal web applications
